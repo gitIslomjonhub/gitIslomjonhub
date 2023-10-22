@@ -14,4 +14,4 @@
 
 ## Programming Languages
 
-![](https://i.pinimg.com/originals/11/98/89/11988947940ce38ed4b1b2424d7d1178.png)
+'HTML' 'CSS' 'SASS' 'Bootstrap' 'JavaScript' 'React JS' 'PHP' 'MySQL' 
