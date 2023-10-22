@@ -14,4 +14,16 @@
 
 ## Programming  Languages
 
-`HTML` `CSS` `SASS` `Bootstrap` `JavaScript` `React JS` `PHP` `MySQL` 
+`HTML` `CSS` `SASS` `JavaScript` `React JS` `PHP` `MySQL`
+
+### Platform 
+
+`node JS` 
+
+### Framework
+
+`Bootstrap`
+
+### Software
+
+`Git`
