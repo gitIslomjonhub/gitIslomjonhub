@@ -1,4 +1,6 @@
-# Hi, I'm Islomjon  I am a web developer 
+# Hi, I'm Islomjon  
+
+## I am a web developer 
 
 <hr>
 
