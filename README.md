@@ -14,7 +14,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-X05ahxFOrovDPj17QakxksEZXHv6fArgKQ&usqp=CAU">
 
-## Programming  Languages
+## <font color="white"> Programming  Languages </font>
 
 `HTML` `CSS` `SASS` `JavaScript` `React JS` `PHP` `MySQL`
 
