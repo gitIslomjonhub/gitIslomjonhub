@@ -11,3 +11,7 @@
 >> ## Full Stack
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-X05ahxFOrovDPj17QakxksEZXHv6fArgKQ&usqp=CAU">
+
+## Programming Languages
+
+![](https://i.pinimg.com/originals/11/98/89/11988947940ce38ed4b1b2424d7d1178.png)
