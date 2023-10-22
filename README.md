@@ -7,11 +7,11 @@
 
 <hr>
 
-> ## MY LEVEL _JUNIOR_
->> ## Full Stack
+> ## MY  LEVEL  _JUNIOR_
+>> ## Full  Stack
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-X05ahxFOrovDPj17QakxksEZXHv6fArgKQ&usqp=CAU">
 
-## Programming Languages
+## Programming  Languages
 
 `HTML` `CSS` `SASS` `Bootstrap` `JavaScript` `React JS` `PHP` `MySQL` 
