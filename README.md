@@ -24,7 +24,7 @@
 
 ### Framework
 
-`Bootstrap`
+`Bootstrap` `Jquery`
 
 ### Software
 
